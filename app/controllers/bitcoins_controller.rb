@@ -1,7 +1,7 @@
 class BitcoinsController < ApplicationController
 
   def index
-    # add backend code
+    ## add backend code
     # render bitcoins/index view
   end
 
